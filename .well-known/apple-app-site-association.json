@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["9B7ZA5S6XM.com.wonderloam.packelia"],
+        "components": [
+          { "/": "/*" }
+        ]
+      }
+    ]
+  }
+}
